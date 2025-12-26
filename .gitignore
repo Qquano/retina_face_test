@@ -1,0 +1,11 @@
+# 忽略常见的图片格式
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.svg
+
+.deepface/
+*.h5
